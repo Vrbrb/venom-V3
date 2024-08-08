@@ -9,10 +9,10 @@ import json
 from keep_alive import keep_alive
 keep_alive()
 
-# Insert your Telegram bot token here
-bot = telebot.TeleBot('TOKEM')
+# Insert your Telegram bot token here 7057765111:AAFWsmNMpP58xra4laKvum5N1E9wShA4dRU
+bot = telebot.TeleBot('7057765111:AAFWsmNMpP58xra4laKvum5N1E9wShA4dRU')
 # Admin user IDs
-admin_id = {"5588464519"}
+admin_id = {"5351559510"}
 
 # Files for data storage
 USER_FILE = "users.json"
@@ -187,7 +187,7 @@ def handle_bgmi(message):
                 port = int(command[2])
                 time = int(command[3])
                 if time > 300:
-                    response = "⚠️𝐄𝐑𝐑𝐎𝐑:170 𝐒𝐄 𝐓𝐇𝐎𝐃𝐀 𝐊𝐀𝐌 𝐓𝐈𝐌𝐄 𝐃𝐀𝐀𝐋 𝐆𝐀𝐍𝐃𝐔."
+                    response = "⚠️𝐄𝐑𝐑𝐎𝐑:170 𝐒𝐄 𝐓𝐇𝐎𝐃𝐀 𝐊𝐀𝐌 𝐓𝐈𝐌𝐄 𝐃𝐀𝐀𝐋 𝐆𝐀𝐍𝐃𝐔.KAM DAL LAVDE"
                 else: 
                     record_command_logs(user_id, '/bgmi', target, port, time)
                     log_command(user_id, target, port, time)
@@ -198,16 +198,17 @@ def handle_bgmi(message):
             except ValueError:
                 response = "𝐄𝐑𝐑𝐎𝐑»𝐈𝐏 𝐏𝐎𝐑𝐓 𝐓𝐇𝐈𝐊 𝐒𝐄 𝐃𝐀𝐀𝐋 𝐂𝐇𝐔𝐓𝐘𝐄"
         else:
-            response = "✅Usage: /bgmi <target> <port> <time>"
+            response = "✅Usage: /bgmi <target> <port> <time> ACHE SE DAAL LODU"
     else:
-        response = "𝐁𝐒𝐃𝐊 𝐆𝐀𝐑𝐄𝐄𝐁 𝐀𝐂𝐂𝐄𝐒𝐒 𝐍𝐀𝐇𝐈 𝐇 𝐓𝐄𝐑𝐏𝐄"
+        response = "𝐁𝐒𝐃𝐊 𝐆𝐀𝐑𝐄𝐄𝐁 𝐀𝐂𝐂𝐄𝐒𝐒 𝐍𝐀𝐇𝐈 𝐇 𝐓𝐄𝐑𝐏 JA SHUBH SE BUY KR"
+
 
     bot.reply_to(message, response)
 
 def start_attack_reply(message, target, port, time):
     user_info = message.from_user
     username = user_info.username if user_info.username else user_info.first_name
-    response = f"{username}, 🔥𝐂𝐇𝐔𝐃𝐀𝐈 𝐒𝐓𝐀𝐑𝐓𝐄𝐃.🔥\n\n🎯𝐓𝐀𝐑𝐆𝐄𝐓: {target}\n🚪𝐏𝐎𝐑𝐓: {port}\n⏳𝐓𝐢𝐌𝐄: {time} 𝐒𝐞𝐜𝐨𝐧𝐝𝐬\n𝐌𝐄𝐓𝐇𝐎𝐃: 𝐆𝐔𝐋𝐀𝐁𝐈𝐄 𝐏𝐔𝐒𝐒𝐘🥵"
+    response = f"{username}, 🔥𝐂𝐇𝐔𝐃𝐀𝐈 𝐒𝐓𝐀𝐑𝐓𝐄𝐃.🔥\n\n🎯𝐓𝐀𝐑𝐆𝐄𝐓: {target}\n🚪𝐏𝐎𝐑𝐓: {port}\n⏳𝐓𝐢𝐌𝐄: {time} 𝐒𝐞𝐜𝐨𝐧𝐝𝐬\n𝐌𝐄𝐓𝐇𝐎𝐃: 𝐆𝐔𝐋𝐀𝐁𝐈𝐄 𝐏𝐔𝐒𝐒𝐘🥵 KAR AB KILL SALE"
     bot.reply_to(message, response)
 
 @bot.message_handler(commands=['clearlogs'])
@@ -276,15 +277,15 @@ def show_command_logs(message):
                     response = "𝐔𝐒𝐄 𝐊𝐑𝐋𝐄 𝐏𝐄𝐇𝐋𝐄 𝐅𝐈𝐑 𝐍𝐈𝐊𝐀𝐋𝐔𝐍𝐆𝐀 𝐓𝐄𝐑𝐈 𝐅𝐈𝐋𝐄."
         except FileNotFoundError:
             response = "No command logs found."
-    else:
-        response = "𝐘𝐄 𝐆𝐀𝐑𝐄𝐄𝐁 𝐄𝐒𝐊𝐈 𝐌𝐀𝐊𝐈 𝐂𝐇𝐔𝐓 𝐀𝐂𝐂𝐄𝐒𝐒 𝐇𝐈 𝐍𝐀𝐇𝐈 𝐇 𝐄𝐒𝐊𝐄 𝐏𝐀𝐒"
+    
+ 
 
     bot.reply_to(message, response)
 
 @bot.message_handler(commands=['help'])
 def show_help(message):
-    help_text = '''𝐌𝐄𝐑𝐀 𝐋𝐀𝐍𝐃 𝐊𝐀𝐑𝐄 𝐇𝐄𝐋𝐏 𝐓𝐄𝐑𝐈 𝐋𝐄 𝐅𝐈𝐑 𝐁𝐇𝐈 𝐁𝐀𝐓𝐀 𝐃𝐄𝐓𝐀:
-💥 /bgmi 𝐁𝐆𝐌𝐈 𝐊𝐄 𝐒𝐄𝐑𝐕𝐄𝐑 𝐊𝐈 𝐂𝐇𝐔𝐃𝐀𝐘𝐈.
+    help_text = '''WELCOMR TOH BGMI KI MARNE WALA BOT MADE BY SHUBH
+   /bgmi: ip Port or target daal fir dekh bgmi ki gand kaise marti h
 💥 /rules: 𝐅𝐨𝐥𝐥𝐨𝐰 𝐞𝐥𝐬𝐞 𝐑𝐚𝐩𝐞.
 💥 /mylogs: 𝐀𝐏𝐊𝐄 𝐏𝐎𝐎𝐑𝐀𝐍𝐄 𝐊𝐀𝐀𝐑𝐍𝐀𝐌𝐄 𝐉𝐀𝐍𝐍𝐄 𝐊 𝐋𝐈𝐘𝐄.
 💥 /plan: 𝐉𝐢𝐧𝐝𝐠𝐢 𝐦𝐞 𝐊𝐨𝐞 𝐏𝐋𝐀𝐍 𝐧𝐚𝐡𝐢 𝐡𝐨𝐧𝐚 𝐂𝐡𝐚𝐡𝐢𝐲𝐞.
@@ -302,7 +303,7 @@ def show_help(message):
 @bot.message_handler(commands=['start'])
 def welcome_start(message):
     user_name = message.from_user.first_name
-    response = f'''𝐐 𝐫𝐞 𝐂𝐇𝐀𝐏𝐑𝐈, {user_name}! 𝐓𝐡𝐢𝐬 𝐢𝐒 𝐘𝐎𝐔𝐑 𝐅𝐀𝐓𝐇𝐑𝐞𝐫𝐒 𝐁𝐨𝐓 𝐒𝐞𝐫𝐯𝐢𝐜𝐞.
+    response = f'''𝐐 𝐫𝐞 𝐂𝐇𝐀𝐏𝐑𝐈, {user_name}! 𝐓𝐡𝐢𝐬 𝐢𝐒 𝐘𝐎𝐔𝐑 𝐅𝐀𝐓𝐇𝐑𝐞𝐫𝐒 𝐁𝐨𝐓 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 MADE BY SHUBH.
 🤖𝐀𝐍𝐏𝐀𝐃 𝐔𝐒𝐄 𝐇𝐄𝐋𝐏 𝐂𝐎𝐌𝐌𝐀𝐍𝐃: /help
 '''
     bot.reply_to(message, response)
@@ -332,14 +333,14 @@ VIP 🌟:
 𝐃𝐚𝐲: 150 𝐫𝐬
 𝐖𝐞𝐞𝐤: 600 𝐫𝐬
 𝐌𝐨𝐧𝐓𝐡: 1100 𝐫𝐬 
-@VenomCHA7
+@Shubh2666
 '''
     bot.reply_to(message, response)
 
 @bot.message_handler(commands=['admincmd'])
 def admin_commands(message):
     user_name = message.from_user.first_name
-    response = f'''{user_name}, 𝐋𝐞 𝐫𝐞 𝐥𝐮𝐧𝐝 𝐊𝐞 𝐘𝐞 𝐑𝐡𝐞 𝐓𝐞𝐫𝐞 𝐜𝐨𝐦𝐦𝐚𝐧𝐝:
+    response = f'''{user_name}, 𝐋𝐞 re moj mar shubh ke bot se
 
 💥 /genkey 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞 𝐚 𝐤𝐞𝐲.
 💥 /allusers: 𝐋𝐢𝐬𝐭 𝐨𝐟 𝐜𝐡𝐮𝐭𝐲𝐚 𝐮𝐬𝐞𝐫𝐬.
@@ -397,4 +398,4 @@ if __name__ == "__main__":
         except Exception as e:
             print(e)
             # Add a small delay to avoid rapid looping in case of persistent errors
-            time.sleep(15)
+            time.sleep(5)

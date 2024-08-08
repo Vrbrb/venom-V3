@@ -1,0 +1,223 @@
+UserID: 5351559510 | Time: 2024-07-27 14:19:08.282155 | Command: /bgmi | Target: 20.198.78.30 | Port: 29730 | Time: 180
+UserID: 5351559510 | Time: 2024-07-27 14:22:14.094110 | Command: /bgmi | Target: 20.198.78.30 | Port: 29730 | Time: 180
+Username: Shubh2666
+Target: 20.198.78.30
+Port: 29730
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-27 14:25:50.830737 | Command: /bgmi | Target: 20.198.78.30 | Port: 29730 | Time: 180
+Username: Shubh2666
+Target: 20.198.78.30
+Port: 29730
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-27 14:30:25.564501 | Command: /bgmi | Target: 20.204.18.23 | Port: 10724 | Time: 180
+Username: Shubh2666
+Target: 20.204.18.23
+Port: 10724
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-27 14:30:54.324141 | Command: /bgmi | Target: 20.204.18.23 | Port: 10724 | Time: 180
+Username: Shubh2666
+Target: 20.204.18.23
+Port: 10724
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-27 14:42:40.908314 | Command: /bgmi | Target: 20.204.18.23 | Port: 10724 | Time: 180
+Username: Shubh2666
+Target: 20.204.18.23
+Port: 10724
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-27 14:43:37.935265 | Command: /bgmi | Target: 20.204.18.23 | Port: 10724 | Time: 280
+Username: Shubh2666
+Target: 20.204.18.23
+Port: 10724
+Time: 280
+
+UserID: 5351559510 | Time: 2024-07-27 14:45:48.773143 | Command: /bgmi | Target: 20.204.188.3 | Port: 10226 | Time: 290
+Username: Shubh2666
+Target: 20.204.188.3
+Port: 10226
+Time: 290
+
+UserID: 5351559510 | Time: 2024-07-27 14:52:25.549632 | Command: /bgmi | Target: 20.204.188.3 | Port: 10226 | Time: 300
+Username: Shubh2666
+Target: 20.204.188.3
+Port: 10226
+Time: 300
+
+UserID: 5351559510 | Time: 2024-07-29 15:44:05.193994 | Command: /bgmi | Target: 20.198.109.171 | Port: 10739 | Time: 180
+Username: Shubh2666
+Target: 20.198.109.171
+Port: 10739
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-29 15:50:13.267647 | Command: /bgmi | Target: 20.198.109.171 | Port: 10739 | Time: 90
+Username: Shubh2666
+Target: 20.198.109.171
+Port: 10739
+Time: 90
+
+UserID: 5351559510 | Time: 2024-07-29 15:52:01.862428 | Command: /bgmi | Target: 20.198.109.171 | Port: 10739 | Time: 90
+Username: Shubh2666
+Target: 20.198.109.171
+Port: 10739
+Time: 90
+
+UserID: 5351559510 | Time: 2024-07-29 15:53:37.621162 | Command: /bgmi | Target: 20.198.109.171 | Port: 10739 | Time: 90
+Username: Shubh2666
+Target: 20.198.109.171
+Port: 10739
+Time: 90
+
+UserID: 5351559510 | Time: 2024-07-29 15:54:07.370260 | Command: /bgmi | Target: 20.198.109.171 | Port: 10739 | Time: 90
+Username: Shubh2666
+Target: 20.198.109.171
+Port: 10739
+Time: 90
+
+UserID: 5351559510 | Time: 2024-07-29 15:56:31.355090 | Command: /bgmi | Target: 20.198.109.171 | Port: 10739 | Time: 90
+Username: Shubh2666
+Target: 20.198.109.171
+Port: 10739
+Time: 90
+
+UserID: 5351559510 | Time: 2024-07-29 15:56:54.361214 | Command: /bgmi | Target: 20.198.109.171 | Port: 10739 | Time: 80
+Username: Shubh2666
+Target: 20.198.109.171
+Port: 10739
+Time: 80
+
+UserID: 5351559510 | Time: 2024-07-29 16:21:07.950280 | Command: /bgmi | Target: 20.198.111.205 | Port: 19671 | Time: 180
+Username: Shubh2666
+Target: 20.198.111.205
+Port: 19671
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-29 16:21:27.026327 | Command: /bgmi | Target: 20.198.111.205 | Port: 19671 | Time: 180
+Username: Shubh2666
+Target: 20.198.111.205
+Port: 19671
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-29 16:26:17.039419 | Command: /bgmi | Target: 20.198.111.205 | Port: 19671 | Time: 180
+Username: Shubh2666
+Target: 20.198.111.205
+Port: 19671
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-29 16:28:53.749108 | Command: /bgmi | Target: 20.198.111.205 | Port: 19671 | Time: 80
+Username: Shubh2666
+Target: 20.198.111.205
+Port: 19671
+Time: 80
+
+UserID: 5351559510 | Time: 2024-07-29 17:35:42.970236 | Command: /bgmi | Target: 20.204.182.9 | Port: 12052 | Time: 180
+Username: Shubh2666
+Target: 20.204.182.9
+Port: 12052
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-29 17:36:29.850144 | Command: /bgmi | Target: 20.204.182.9 | Port: 12052 | Time: 180
+Username: Shubh2666
+Target: 20.204.182.9
+Port: 12052
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-30 04:36:40.782729 | Command: /bgmi | Target: 20.40.43.63 | Port: 10766 | Time: 180
+Username: Shubh2666
+Target: 20.40.43.63
+Port: 10766
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-30 04:39:50.857980 | Command: /bgmi | Target: 20.40.43.63 | Port: 10766 | Time: 180
+Username: Shubh2666
+Target: 20.40.43.63
+Port: 10766
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-30 04:43:04.633424 | Command: /bgmi | Target: 20.40.43.63 | Port: 10766 | Time: 30
+Username: Shubh2666
+Target: 20.40.43.63
+Port: 10766
+Time: 30
+
+UserID: 5351559510 | Time: 2024-07-30 04:43:30.941928 | Command: /bgmi | Target: 20.40.43.63 | Port: 10766 | Time: 30
+Username: Shubh2666
+Target: 20.40.43.63
+Port: 10766
+Time: 30
+
+UserID: 5351559510 | Time: 2024-07-30 04:46:49.739629 | Command: /bgmi | Target: 20.198.107.126 | Port: 10644 | Time: 300
+Username: Shubh2666
+Target: 20.198.107.126
+Port: 10644
+Time: 300
+
+UserID: 5351559510 | Time: 2024-07-30 04:47:38.240994 | Command: /bgmi | Target: 20.198.107.126 | Port: 10644 | Time: 100
+Username: Shubh2666
+Target: 20.198.107.126
+Port: 10644
+Time: 100
+
+UserID: 5351559510 | Time: 2024-07-30 04:49:30.580329 | Command: /bgmi | Target: 20.198.107.126 | Port: 10644 | Time: 100
+Username: Shubh2666
+Target: 20.198.107.126
+Port: 10644
+Time: 100
+
+UserID: 5351559510 | Time: 2024-07-30 04:51:26.045608 | Command: /bgmi | Target: 20.198.107.126 | Port: 10644 | Time: 100
+Username: Shubh2666
+Target: 20.198.107.126
+Port: 10644
+Time: 100
+
+UserID: 5351559510 | Time: 2024-07-31 04:53:42.398780 | Command: /bgmi | Target: 20.198.72.178 | Port: 29691 | Time: 180
+Username: Shubh2666
+Target: 20.198.72.178
+Port: 29691
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-31 10:32:36.978977 | Command: /bgmi | Target: 20.204.17.4 | Port: 19039 | Time: 180
+Username: Shubh2666
+Target: 20.204.17.4
+Port: 19039
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-31 10:32:52.119617 | Command: /bgmi | Target: 20.204.17.4 | Port: 19039 | Time: 180
+Username: Shubh2666
+Target: 20.204.17.4
+Port: 19039
+Time: 180
+
+UserID: 5351559510 | Time: 2024-07-31 10:37:26.236128 | Command: /bgmi | Target: 20.204.17.4 | Port: 19039 | Time: 40
+Username: Shubh2666
+Target: 20.204.17.4
+Port: 19039
+Time: 40
+
+UserID: 5351559510 | Time: 2024-07-31 10:38:36.118038 | Command: /bgmi | Target: 20.204.17.4 | Port: 19039 | Time: 40
+Username: Shubh2666
+Target: 20.204.17.4
+Port: 19039
+Time: 40
+
+UserID: 5351559510 | Time: 2024-07-31 10:40:04.447262 | Command: /bgmi | Target: 20.204.17.4 | Port: 19039 | Time: 30
+Username: Shubh2666
+Target: 20.204.17.4
+Port: 19039
+Time: 30
+
+UserID: 5351559510 | Time: 2024-07-31 10:41:25.296232 | Command: /bgmi | Target: 20.204.17.4 | Port: 19039 | Time: 100
+Username: Shubh2666
+Target: 20.204.17.4
+Port: 19039
+Time: 100
+
+UserID: 5351559510 | Time: 2024-07-31 10:47:30.006855 | Command: /bgmi | Target: 20.204.189.83 | Port: 10177 | Time: 180
+Username: Shubh2666
+Target: 20.204.189.83
+Port: 10177
+Time: 180
+
